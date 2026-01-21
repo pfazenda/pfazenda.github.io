@@ -4,7 +4,9 @@ title: "Software After Code: Rethinking OOP in the Age of Agents"
 date: 2026-01-21
 ---
 
-![Software After Code](../assets/images/posts/2026-01-21/SoftwareAfterCode.png)
+<picture> <source media="(prefers-color-scheme: dark)" srcset="../assets/images/posts/2026-01-21/SoftwareAfterCode.png"> </picture>
+
+<!--![Software After Code](../assets/images/posts/2026-01-21/SoftwareAfterCode.png)-->
 
 Object-Oriented Programming (OOP) is not failing - it is becoming structurally irrelevant for a growing class of software systems. Vibecoding and agent-based development expose a deeper truth: code is no longer the primary unit of software design.
 
