@@ -3,7 +3,7 @@ layout: home
 title: Informatics and Multimedia Engineering
 ---
 
-# Welcome to the Informatics and Multimedia Engineerign Blog at ISEL
+# Welcome to the Informatics and Multimedia Engineerign Blog at [https://www.isel.pt/](ISEL)
 
 ![Pedro Fazenda](assets/images/profile.jpg){: style="width:150px; border-radius:50%;" }
 
