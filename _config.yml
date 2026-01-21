@@ -9,7 +9,7 @@ author: "Pedro Fazenda"
 email: "pedro.fazenda@isel.pt"
 
 # Theme
-remote_theme: pages-themes/architect@v0.3.0
+remote_theme: pjekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
 
