@@ -32,7 +32,7 @@ OOP's core mechanisms, including encapsulation, abstraction, inheritance, and po
 
 This worked because **humans were the slowest component in the system**.
 
-![Sleepy Joe](https://github.com/pfazenda/pfazenda.github.io/blob/master/assets/images/posts/2026-01-21/SleepyJoe.jpeg)
+![Sleepy Joe](https://github.com/pfazenda/pfazenda.github.io/blob/master/assets/images/posts/2026-01-21/SleepyJoe.png)
 
 ## Vibecoding Breaks the Core Assumption
 
@@ -68,7 +68,7 @@ The internal structure of a module is private, unstable, and disposable. Only th
 
 In agent-centric systems, documentation is no longer a secondary concern or an afterthought. It becomes the definitive source of truth, guiding every aspect of the software. Agents read the documentation to understand the intended behaviour, generate tests automatically, and even regenerate implementations on demand. Validation is performed against the documented contracts rather than by inspecting the code itself. In this world, the traditional hierarchy is inverted: documentation and specifications sit at the top, driving tests and code, while class hierarchies and internal structures fade into irrelevance. Code is no longer the enduring artifact; the durable essence of the system lives in its documentation and the guarantees it encodes.
 
-![Code Agents](https://github.com/pfazenda/pfazenda.github.io/blob/master/assets/images/posts/2026-01-21/CodeAgents.jpeg)
+![Code Agents](https://github.com/pfazenda/pfazenda.github.io/blob/master/assets/images/posts/2026-01-21/CodeAgents.png)
 
 ## What Actually Replaces OOP
 
@@ -84,7 +84,7 @@ Think of modern hardware design. Nobody says the product is the Verilog. The pro
 
 Software After Code does not mean the end of programming or AI replacing engineers. It means code is ephemeral, meaning is externalized, and regeneration is normal. Just as binaries replaced source at runtime and compilers replaced assembly, agents are making the manual management of class hierarchies a thing of the past.
 
-![Replacing OO](https://github.com/pfazenda/pfazenda.github.io/blob/master/assets/images/posts/2026-01-21/ReplacingOO.jpeg)
+![Replacing OO](https://github.com/pfazenda/pfazenda.github.io/blob/master/assets/images/posts/2026-01-21/ReplacingOO.png)
 
 ## Where OOP Still Makes Sense
 
