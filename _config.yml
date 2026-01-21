@@ -1,0 +1,32 @@
+# Site settings
+title: Master in Informatics and Multimedia Engineering
+description: Blog of the Master in Informatics and Multimedia Engineering at ISEL
+url: "https://pfazenda.github.io"
+baseurl: "" # leave empty because this is a user site
+
+# Author info
+author:
+  name: Pedro Fazenda
+  email: pedro.fazenda@isel.pt
+
+# Theme
+theme: minima
+
+# Social links
+social:
+  email: pedro.fazenda@isel.pt
+  github: pfazenda
+  linkedin: https://www.linkedin.com/in/pedrofazenda/
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Pedro Fazenda"
