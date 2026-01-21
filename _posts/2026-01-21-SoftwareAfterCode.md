@@ -10,7 +10,7 @@ Object-Oriented Programming (OOP) is not failing - it is becoming structurally i
 
 For decades, the equation has held:
 
-![Software After Code](/assets/images/posts/2026-01-2/HumansAndCode.png)
+![Software After Code](/assets/images/posts/2026-01-21/HumansAndCode.png)
 
 Everything important lived in the code: architecture, business rules, constraints, intent, and plans for future evolution. Documentation was secondary, and tests were often optional. Lose the code, and you lost the software. This reality shaped OOP, design patterns, and "clean architecture."
 
