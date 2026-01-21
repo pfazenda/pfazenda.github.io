@@ -1,36 +1,36 @@
 # Site settings
 title: "Informatics and Multimedia Engineering"
-description: "Multimedia Engineering at [https://www.isel.pt/](ISEL)"
-url: "https://pedro.fazenda.io"   # Use your GitHub Pages custom domain or username page URL
-baseurl: ""                        # Leave empty because this is a user/organization site
+description: "Multimedia Engineering at ISEL"
+url: "https://pedro.fazenda.io"
+baseurl: ""  # leave empty for user/custom domain
 
 # Author info
-author:
-  name: "Pedro Fazenda"
-  email: "pedro.fazenda@isel.pt"
+author: "Pedro Fazenda"
+email: "pedro.fazenda@isel.pt"
 
 # Theme
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/architect@v0.3.0
+plugins:
+  - jekyll-remote-theme
 
-# Social links
+# Social links (used by footer or optional header links)
 social:
   email: "pedro.fazenda@isel.pt"
   github: "pfazenda"
-  linkedin: "https://www.linkedin.com/in/pedrofazenda/"
+  linkedin: "pedrofazenda"
 
-# Markdown settings
+# Markdown and syntax highlighting
 markdown: kramdown
 highlighter: rouge
 
 # Defaults for posts
 defaults:
   - scope:
-      path: ""          # Applies to all files
-      type: "posts"     # For posts
+      path: ""          # applies to all files
+      type: "posts"
     values:
       layout: "post"
       author: "Pedro Fazenda"
 
-# Optional: make sure assets are served correctly
-# This is default behavior, but explicitly allows files in 'assets/' to be included
+# Optional: include assets folder
 include: ["assets"]
