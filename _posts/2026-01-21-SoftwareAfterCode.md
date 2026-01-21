@@ -6,15 +6,11 @@ date: 2026-01-21
 
 ![Software After Code](/assets/images/posts/2026-01-21/SoftwareAfterCode.png)
 
-
-
-<!--![Software After Code](../assets/images/posts/2026-01-21/SoftwareAfterCode.png)-->
-
 Object-Oriented Programming (OOP) is not failing - it is becoming structurally irrelevant for a growing class of software systems. Vibecoding and agent-based development expose a deeper truth: code is no longer the primary unit of software design.
 
 For decades, the equation has held:
 
-> **Software** = **Source code** + **humans maintaining it**
+![Software After Code](/assets/images/posts/2026-01-2/HumansAndCode.png)
 
 Everything important lived in the code: architecture, business rules, constraints, intent, and plans for future evolution. Documentation was secondary, and tests were often optional. Lose the code, and you lost the software. This reality shaped OOP, design patterns, and "clean architecture."
 
@@ -36,7 +32,7 @@ OOP's core mechanisms, including encapsulation, abstraction, inheritance, and po
 
 This worked because **humans were the slowest component in the system**.
 
-![Sleepy Joe](../assets/images/posts/2026-01-21/SleepyJoe.png)
+![Sleepy Joe](/assets/images/posts/2026-01-21/SleepyJoe.png)
 
 ## Vibecoding Breaks the Core Assumption
 
@@ -72,7 +68,7 @@ The internal structure of a module is private, unstable, and disposable. Only th
 
 In agent-centric systems, documentation is no longer a secondary concern or an afterthought. It becomes the definitive source of truth, guiding every aspect of the software. Agents read the documentation to understand the intended behaviour, generate tests automatically, and even regenerate implementations on demand. Validation is performed against the documented contracts rather than by inspecting the code itself. In this world, the traditional hierarchy is inverted: documentation and specifications sit at the top, driving tests and code, while class hierarchies and internal structures fade into irrelevance. Code is no longer the enduring artifact; the durable essence of the system lives in its documentation and the guarantees it encodes.
 
-![Code Agents](../assets/images/posts/2026-01-21/CodeAgents.png)
+![Code Agents](/assets/images/posts/2026-01-21/CodeAgents.png)
 
 ## What Actually Replaces OOP
 
@@ -88,7 +84,7 @@ Think of modern hardware design. Nobody says the product is the Verilog. The pro
 
 Software After Code does not mean the end of programming or AI replacing engineers. It means code is ephemeral, meaning is externalized, and regeneration is normal. Just as binaries replaced source at runtime and compilers replaced assembly, agents are making the manual management of class hierarchies a thing of the past.
 
-![Replacing OO](../assets/images/posts/2026-01-21/ReplacingOO.png)
+![Replacing OO](/assets/images/posts/2026-01-21/ReplacingOO.png)
 
 ## Where OOP Still Makes Sense
 
@@ -97,5 +93,3 @@ OOP does not disappear entirely. It retreats to domains where its underlying ass
 ## The Real Shift: From Code Reuse to Intent Reuse
 
 The most profound shift is conceptual rather than technical. Traditionally, software focused on reusing code by designing the right abstractions. In an agent-driven world, the emphasis moves to reusing intent, allowing the system to regenerate the appropriate code as needed. Object-Oriented Programming excels at preserving code, while agents excel at recreating it.
-
-
