@@ -4,7 +4,8 @@ title: "Software After Code: Rethinking OOP in the Age of Agents"
 date: 2026-01-21
 ---
 
-![Software After Code](../assets/images/posts/2026-01-21/SoftwareAfterCode.png)
+![Software After Code](/assets/images/posts/2026-01-21/SoftwareAfterCode.png)
+
 
 
 <!--![Software After Code](../assets/images/posts/2026-01-21/SoftwareAfterCode.png)-->
