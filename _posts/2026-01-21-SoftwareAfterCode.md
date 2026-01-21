@@ -4,7 +4,8 @@ title: "Software After Code: Rethinking OOP in the Age of Agents"
 date: 2026-01-21
 ---
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="../assets/images/posts/2026-01-21/SoftwareAfterCode.png"> </picture>
+![Software After Code](../assets/images/posts/2026-01-21/SoftwareAfterCode.png)
+
 
 <!--![Software After Code](../assets/images/posts/2026-01-21/SoftwareAfterCode.png)-->
 
@@ -95,3 +96,5 @@ OOP does not disappear entirely. It retreats to domains where its underlying ass
 ## The Real Shift: From Code Reuse to Intent Reuse
 
 The most profound shift is conceptual rather than technical. Traditionally, software focused on reusing code by designing the right abstractions. In an agent-driven world, the emphasis moves to reusing intent, allowing the system to regenerate the appropriate code as needed. Object-Oriented Programming excels at preserving code, while agents excel at recreating it.
+
+
