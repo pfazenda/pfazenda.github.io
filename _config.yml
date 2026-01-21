@@ -10,7 +10,7 @@ author:
   email: "pedro.fazenda@isel.pt"
 
 # Theme
-theme: minima
+theme: jekyll-theme-cayman
 
 # Social links
 social:
